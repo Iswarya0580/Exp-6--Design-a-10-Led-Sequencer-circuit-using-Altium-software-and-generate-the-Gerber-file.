@@ -57,9 +57,11 @@ The circuit is powered by a DC supply (typically 5V or 9V) connected at the VCC 
  
 # EXPECTED OUTPUT:
 ## Schematic diagram:
- 
+ ![image](https://github.com/user-attachments/assets/0ac5016d-9ee8-42bd-bc58-1b93957b827a)
+
 ## Layout diagram:
- 
+ ![image](https://github.com/user-attachments/assets/75b261b3-0381-4bc3-8189-d085149abd33)
+
 # RESULT:
 Thus, the schematic and PCB layout for the IoT based fan speed control circuit has been successfully designed using Altium software.
 
